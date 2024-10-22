@@ -41,10 +41,10 @@ const Footer = () => {
                                 <LocalPhoneIcon /> <span>+123 4567 890</span>
                             </li>
                             <li className="footer__contact">
-                                <EmailIcon /> <span>shop@atoz.com</span>
+                                <EmailIcon /> <span>rasiut04@gmail.com</span>
                             </li>
                             <li className="footer__contact">
-                                <LocationOnIcon /> <span>New Delhi, India</span>
+                                <LocationOnIcon /> <span>Odisha, India</span>
                             </li>
                         </ul>
                     </div>
@@ -54,19 +54,19 @@ const Footer = () => {
                         </div>
                     <ul className="footer__social__links">
                             <li className="social__link">
-                                <a href="https://www.twitter.com" target='new'><TwitterIcon /></a>
+								<a href="https://x.com/R_M_Rout?s=08" target='new'><TwitterIcon /></a>
                             </li>
                             <li className="social__link">
-                                <a href="https://www.instagram.com" target='new'><InstagramIcon /></a>
+								<a href="https://www.instagram.com/rasiut_2901" target='new'><InstagramIcon /></a>
                             </li>
                             <li className="social__link">
-                               <a href="https://www.YouTube.com" target='new'> <YouTubeIcon /></a>
+								<a href="https://www.youtube.com/@RASIUT" target='new'> <YouTubeIcon /></a>
                             </li>
                             <li className="social__link">
-                                <a href="https://web.telegram.org/k/" target='new'><TelegramIcon /></a>
+                                <a href="" target='new'><TelegramIcon /></a>
                             </li>
                             <li className="social__link">
-                                <a href="https://www.facebook.com/" target='new'><FacebookIcon /></a>
+                                <a href="" target='new'><FacebookIcon /></a>
                             </li>
                         </ul>
                     </div>
